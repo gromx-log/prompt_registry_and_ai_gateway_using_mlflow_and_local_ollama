@@ -4,10 +4,10 @@ The slides (`slides.md` -> `slides.html` / `slides.pdf`) are already built on th
 These items need information only you have, or are optional polish.
 
 ## Must do before sending to the lecturer
-- [ ] **Slide 1:** Remove `[Course name]`, `[Lecturer name]`, `[Your name] — [NIM]` in `slides.md`.
-- [ ] **Slide 22 (References):** replace `[add your GitHub URL here]` after the repo is published.
-- [ ] Rebuild the HTML and PDF after every edit to `slides.md` (commands are in `README.md`).
-- [ ] Open `slides.pdf` once and flip through it: nothing may touch the dark footer bar.
+- [x] **Slide 1:** Remove `[Course name]`, `[Lecturer name]`, `[Your name] — [NIM]` in `slides.md`.
+- [x] **Slide 22 (References):** replace `[add your GitHub URL here]` with link: "https://github.com/gromx-log/prompt_registry_and_ai_gateway_using_mlflow_and_local_ollama".
+- [x] Rebuild the HTML and PDF after every edit to `slides.md` (commands are in `README.md`).
+- [x] Open `slides.pdf` once and flip through it: nothing may touch the dark footer bar.
 
 ## Recommended (makes the deck stronger)
 - [ ] **Screenshots from your Colab run** (the MLflow UI link is in the server cell). Add them to `assets/` and use `![w:900](assets/name.png)`:
@@ -25,6 +25,6 @@ These items need information only you have, or are optional polish.
 - [ ] Persist the MLflow DB to Google Drive (`PERSIST_TO_DRIVE` option) if you want prompts to survive a disconnect.
 
 ## Repository hygiene
-- [ ] Confirm the license: `LICENSE` is GPL-3.0 (copied from the upstream workshop). Keep it unless the upstream says otherwise.
-- [ ] `git init`, commit, push (see the commands in the chat / README).
+- [x] Confirm the license: `LICENSE` is GPL-3.0 (copied from the upstream workshop). Keep it unless the upstream says otherwise.
+- [x] `git init`, commit, push (see the commands in the chat / README).
 

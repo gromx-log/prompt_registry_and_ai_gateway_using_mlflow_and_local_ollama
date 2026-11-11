@@ -55,7 +55,6 @@ Running Ollama on a Colab T4 solved all three: the `openai` SDK code stays the s
 ├── slides.md                               # Marp source of the presentation (UNTAR template)
 ├── slides.html                             # built slides (needs the assets/ folder next to it)
 ├── slides.pdf                              # built slides, ready to send
-├── assets/untar_template.png               # slide background (UNTAR footer / logo)
 ├── requirements.txt
 ├── .gitignore
 ├── LICENSE                                 # GPL-3.0 (inherited from the upstream workshop)

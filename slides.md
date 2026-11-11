@@ -69,9 +69,6 @@ style: |
 # Prompt Registry & Local LLM Inference with MLflow 3.13
 ## Versioning, aliasing and evaluating prompts with Llama 3.2 on Google Colab Pro
 
-**Course:** _[Course name]_ &nbsp;·&nbsp; **Lecturer:** _[Lecturer name]_
-**Presenter:** _[Your name] — [NIM]_
-
 ---
 
 ## Agenda
@@ -520,7 +517,7 @@ Both scorers are **deterministic** (no LLM judge), so results are repeatable.
 - MLflow AI Gateway — https://mlflow.org/docs/latest/genai/governance/ai-gateway/
 - Ollama — https://ollama.com/ &nbsp;·&nbsp; Llama 3.2 — https://ollama.com/library/llama3.2
 - Pydantic AI — https://ai.pydantic.dev/
-- Source repository: *[add your GitHub URL here]*
+- Source repository — https://github.com/gromx-log/prompt_registry_and_ai_gateway_using_mlflow_and_local_ollama
 
 ---
 
